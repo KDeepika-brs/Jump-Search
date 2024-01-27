@@ -4,4 +4,4 @@
 
 ##### The function returns the index of the target if found, or -1 if the target is not present in the array. Jump search is effective for large and sorted arrays.
 
-#### Dear Students, Check out the live app [here](https://kdeepika-brs.github.io/Hamming-algo/).
+#### Dear Students, Check out the live app [here](https://kdeepika-brs.github.io/Jump-Search/).
